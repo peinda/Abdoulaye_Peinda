@@ -1,0 +1,14 @@
+body{
+    font-family: "Noto Sans";
+    font-weight: 300;
+    color: #191E21;
+    font-size: 1.4em;
+    background-image: linear-gradient(skyblue,white);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+   
+}
+h1{
+    position:center
+}
